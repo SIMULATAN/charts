@@ -1,0 +1,10 @@
+title: SIMULATAN's Helm Chart Repository
+description: A chart repository containing various charts
+theme: minima
+url: "https://charts.simulatan.me"
+repo_url: "https://charts.simulatan.me"
+repo_name: simulatan
+exclude:
+- Gemfile
+- Gemfile.lock
+- .gitignore
