@@ -17,4 +17,15 @@ entries:
     urls:
     - https://github.com/SIMULATAN/charts/releases/download/local-path-provisioner-0.0.28/local-path-provisioner-0.0.28.tgz
     version: 0.0.28
-generated: "2024-07-30T20:45:03.029940213Z"
+  wakapi:
+  - apiVersion: v2
+    appVersion: 2.12.2
+    created: "2024-11-11T08:33:53.585331571Z"
+    description: A Helm chart to deploy a self-hosted Wakapi server
+    digest: 56237204db7ea8f8000645e0ea2a4af016a96762a5056f9d445dfe0b445d64fd
+    name: wakapi
+    type: application
+    urls:
+    - https://github.com/SIMULATAN/charts/releases/download/wakapi-1.0.0/wakapi-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-11-11T08:33:53.58534159Z"
