@@ -19,6 +19,16 @@ entries:
     version: 0.0.28
   wakapi:
   - apiVersion: v2
+    appVersion: 2.12.3
+    created: "2024-12-20T20:34:28.767157381Z"
+    description: A Helm chart to deploy a self-hosted Wakapi server
+    digest: 4d44127827a2bf6ac426ea69ef840f41110bd173318146834723428662be29d5
+    name: wakapi
+    type: application
+    urls:
+    - https://github.com/SIMULATAN/charts/releases/download/wakapi-1.0.1/wakapi-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
     appVersion: 2.12.2
     created: "2024-11-11T08:33:53.585331571Z"
     description: A Helm chart to deploy a self-hosted Wakapi server
@@ -28,4 +38,4 @@ entries:
     urls:
     - https://github.com/SIMULATAN/charts/releases/download/wakapi-1.0.0/wakapi-1.0.0.tgz
     version: 1.0.0
-generated: "2024-11-11T08:33:53.58534159Z"
+generated: "2024-12-20T20:34:28.767170575Z"
