@@ -4,5 +4,5 @@ description: A Helm chart to deploy a self-hosted Wakapi server
 
 type: application
 
-version: 1.0.0
-appVersion: 2.12.2
+version: 1.0.1
+appVersion: 2.12.3
